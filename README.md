@@ -9,9 +9,9 @@
 ## Runtime
 The main controller run the update of the sensors every one seconds and send then to `MQTT` server using the `ESP32-S3 WROOM Freenove` wifi connection, on topics:
 
-`Lilium/temperature`
-`Lilium/humidity`
-`Lilium/CO` 
+- `Lilium/temperature`
+- `Lilium/humidity`
+- `Lilium/CO` 
 
 ## Dev Enviroment
 
